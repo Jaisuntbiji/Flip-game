@@ -1,0 +1,12 @@
+body{
+  background-color: rgba(0, 0, 0, 0.804);
+}
+.Flip-card{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+}
